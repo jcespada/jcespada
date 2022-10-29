@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcespada
-- 👀 I’m interested in C# .NET WPF Blazor Python Scripting
+- 👀 I’m interested in C# .NET WPF Blazor Python Scripting, Ruby, Rails
 - 🌱 I’m currently learning "<i>programming</i>"
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me -> jcespada@gmail.com
